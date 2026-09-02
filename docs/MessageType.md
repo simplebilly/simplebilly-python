@@ -1,0 +1,13 @@
+# MessageType
+
+Body format of a ticket message.
+
+## Enum
+
+* `TEXT` (value: `'text'`)
+
+* `HTML` (value: `'html'`)
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
